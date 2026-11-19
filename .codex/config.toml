@@ -1,0 +1,5 @@
+[mcp_servers.blender_workshop]
+command = "powershell.exe"
+args = ["-NoProfile", "-ExecutionPolicy", "Bypass", "-File", 'C:\Projeck\Модели в blender\Tools\Blender\start-blender-mcp.ps1']
+startup_timeout_sec = 60
+tool_timeout_sec = 240

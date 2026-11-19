@@ -1,0 +1,7 @@
+/.local/
+*.blend[0-9]*
+*.blend@
+__pycache__/
+/Exports/Unity/*
+!/Exports/Unity/.gitkeep
+/codex-transfer.zip
